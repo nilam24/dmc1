@@ -1,0 +1,22 @@
+<resources>
+
+    <!--activity_-main-->
+    <string name="app_name">Google Book Listing App</string>
+    <string name="edittext_search">enter search text</string>
+    <string name="button_search">Click</string>
+
+
+    <!--list_layout-->
+    <string name="textview1_searchCriteria">Google Book:: search criteria :: search byTitle ,search byAuthor, search byPublisher</string>
+    <string name="textview_noNetwork">No Network Found</string>
+
+
+    <!---list_item_layout-->
+
+    <string name="textview2_title">Book_Title</string>
+    <string name="textview3_author">Author_Name</string>
+    <string name="textview4_publisher">Publisher_Name</string>
+    <string name="book_image">Book_Image</string>
+
+
+</resources>
